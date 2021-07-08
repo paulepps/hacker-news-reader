@@ -19,4 +19,4 @@ Design inspired by [Daily Now](https://www.dailynow.co/) - Curated dev news for 
 
 ## Demo
 
-![](https://paulepps.github.io/hacker-news-reader/)
+[https://paulepps.github.io/hacker-news-reader/](https://paulepps.github.io/hacker-news-reader/)
